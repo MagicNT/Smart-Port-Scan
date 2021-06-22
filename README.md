@@ -1,4 +1,4 @@
-# Smart-Port-Scan
+# A Smart Port Scanner
 
 ## About
 - spscan is a smart port scanner that quickly discovers open ports then scans them.
